@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\bin\Debug\netcoreapp2.0\PewChat.deps.json
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\bin\Debug\netcoreapp2.0\PewChat.runtimeconfig.json
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\bin\Debug\netcoreapp2.0\PewChat.runtimeconfig.dev.json
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\bin\Debug\netcoreapp2.0\PewChat.dll
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\obj\Debug\netcoreapp2.0\PewChat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\obj\Debug\netcoreapp2.0\PewChat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\obj\Debug\netcoreapp2.0\PewChat.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\obj\Debug\netcoreapp2.0\PewChat.AssemblyInfo.cs
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\bin\Debug\netcoreapp2.0\PewChat.pdb
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\obj\Debug\netcoreapp2.0\PewChat.dll
+C:\Users\User\Desktop\MySocket\PewChat\PewChat\obj\Debug\netcoreapp2.0\PewChat.pdb
